@@ -1,0 +1,8 @@
+(clear)
+(load "input_data_set3.clp")
+(load "populate_data2.clp")
+(load "min_cost3.clp")
+(load "simulation4.clp")
+(load "reports5.clp")
+(reset)
+(run)
